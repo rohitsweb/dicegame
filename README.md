@@ -20,7 +20,7 @@ Demo: https://sudochain.github.io/dicegame
 ## Authors
 
   * **KR ROHIT**
-    [Rohitverse](https://github.com/sudochain)
+    [SudoChain](https://github.com/sudochain)
 
 
 ## License
