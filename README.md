@@ -5,7 +5,7 @@ Simple two player dice game. Once the user clicks on Roll the Dice button, the d
 
 ## Deployment
 
-Demo: https://rohitverse.github.io/dice-game
+Demo: https://sudochain.github.io/dicegame
 
 ![dice-game](./images/one.png)
 ![dice-game](./images/two.png)
@@ -20,7 +20,7 @@ Demo: https://rohitverse.github.io/dice-game
 ## Authors
 
   * **KR ROHIT**
-    [Rohitverse](https://github.com/rohitverse)
+    [Rohitverse](https://github.com/sudochain)
 
 
 ## License
